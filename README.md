@@ -4,11 +4,11 @@
 
 开发工具 Hbuildx；微信开发者工具
 
-服务器端：nodejs + koa，
-koa调用云开发数据库生成http接口给后台管理，
-使用腾讯云cos存储后台所需图片对象，
-后台管理界面：vue2 + element框架，
-即时通讯：Goeasy，
+服务器端：nodejs + koa；
+后台管理界面：vue2 + element框架；
+数据库：微信云开发数据库；
+图片存储：腾讯云cos；
+即时通讯：Goeasy；
 
 MealOrder-uer为小程序代码
 MealOrder为接口端
