@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "树宝好粥铺",
+  "navigationBarBackgroundColor": "#f7d45f",
+  "usingComponents": {
+    "cart": "/pages/home-page/components/shopping-cart",
+    "details": "/pages/home-page/components/goods-details",
+    "home": "/pages/skeleton-view/home"
+  }
+}

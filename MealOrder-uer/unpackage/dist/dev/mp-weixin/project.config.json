@@ -1,0 +1,25 @@
+{
+  "description": "项目配置文件。",
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "setting": {
+    "urlCheck": true,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    }
+  },
+  "compileType": "miniprogram",
+  "libVersion": "2.25.4",
+  "appid": "wxf556f38e0a82c3fe",
+  "projectname": "MealOrder-uer",
+  "condition": {},
+  "cloudfunctionRoot": "cloudfunctions/",
+  "editorSetting": {
+    "tabIndent": "insertSpaces",
+    "tabSize": 2
+  }
+}

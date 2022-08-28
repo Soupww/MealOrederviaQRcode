@@ -1,0 +1,47 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path":"pages/saoma/saoma",
+			"style":{
+				"navigationBarTitleText":"扫码点餐",
+				"igationBarBackgroundColor":"#fefefe"
+			}
+		},
+		{
+			"path":"pages/index/index",
+			"style":{
+				"navigationBarTitleText":"选择人数",
+				"navigationBarBackgroundColor":"#fefefe",
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path":"pages/home-page/page",
+			"style":{
+				"navigationBarTitleText":"树宝好粥铺",
+				"navigationBarBackgroundColor":"#f7d45f"
+			}
+		},
+		{
+			"path":"pages/order-details/details",
+			"style":{
+				"navigationBarTitleText":"订单详情",
+				"navigationBarBackgroundColor":"#f7d45f"
+			}
+		},
+		{
+			"path":"pages/my-order/my-order",
+			"style":{
+				"navigationBarTitleText":"我的订单",
+				"navigationBarBackgroundColor":"#fefefe"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {}
+}
