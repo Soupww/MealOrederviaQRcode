@@ -18,7 +18,7 @@
 
 MealOrder-uer为小程序代码
 MealOrder为接口端
-saoma-diancan-pcWie后台管理端
+saoma-diancan-pc为后台管理端
 
 **项目部分截图：**
 
