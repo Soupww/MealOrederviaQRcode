@@ -7,9 +7,13 @@
 **软件架构：**
 
 服务器端：Nodejs + koa；
+
 后台管理界面：vue2 + element框架；
+
 数据库：Mongodb云数据库；
+
 图片存储：腾讯云cos；
+
 即时通讯：Goeasy；
 
 MealOrder-uer为小程序代码
