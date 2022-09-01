@@ -23,19 +23,7 @@ saoma-diancan-pcWie后台管理端
 **项目部分截图：**
 
 后台：
-
-![image-20220901221116424](C:\Users\WWS\AppData\Roaming\Typora\typora-user-images\image-20220901221116424.png)
-
-![image-20220901221122506](C:\Users\WWS\AppData\Roaming\Typora\typora-user-images\image-20220901221122506.png)
-
-![image-20220901221639683](C:\Users\WWS\AppData\Roaming\Typora\typora-user-images\image-20220901221639683.png)
-
-![image-20220901221726585](C:\Users\WWS\AppData\Roaming\Typora\typora-user-images\image-20220901221726585.png)
+pdf
 
 前端：
-
-![image-20220901221607938](C:\Users\WWS\AppData\Roaming\Typora\typora-user-images\image-20220901221607938.png)
-
-![image-20220901221614219](C:\Users\WWS\AppData\Roaming\Typora\typora-user-images\image-20220901221614219.png)
-
-![image-20220901221630490](C:\Users\WWS\AppData\Roaming\Typora\typora-user-images\image-20220901221630490.png)
+pdf
