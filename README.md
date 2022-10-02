@@ -10,14 +10,14 @@ Backend：Node.js + koa；
 
 Backend management interface：Vue2 + Element-UI；
 
-User：微信小程序Uni-app
+User：Uni-app- Wechat miniprogram
 
-Database：Mongodb云数据库；
+Database：Mongodb cloud database；
 
 Instant Message：Goeasy；
 
-MealOrder-uer为小程序代码
-MealOrder为接口端
-saoma-diancan-pc为后台管理端
+MealOrder-user is for miniprogram.
+MealOrder is API.
+saoma-diancan-pc is Backend.
 
 You can see the screenshots of project in pdf.
