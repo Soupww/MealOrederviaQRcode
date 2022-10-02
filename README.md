@@ -1,29 +1,23 @@
 # MealOrederviaQRcode
-基于vue+nodejs+微信小程序的扫码点餐系统
-包含扫码点餐、即时通讯订单提醒、订阅消息提醒、语音提醒等功能，可实现从用户扫码到商家结账的完整功能
+MealOrder system based on Vue + node.js + Wechat miniprogram
+Includes code ordering, instant messaging order reminder, subscription message reminder, voice reminder and other functions, which can realize the complete function from user code scanning to merchant checkout
 
-开发工具 Hbuildx；微信开发者工具
+Development tools： Hbuildx；WeChat Developer Tools
 
-**软件架构：**
+**Framework：**
 
-后端：Nodejs + koa；
+Backend：Node.js + koa；
 
-后台管理界面：vue2 + element框架；
+Backend management interface：Vue2 + Element-UI；
 
-用户端：微信小程序Uni-app
+User：微信小程序Uni-app
 
-数据库：Mongodb云数据库；
+Database：Mongodb云数据库；
 
-即时通讯：Goeasy；
+Instant Message：Goeasy；
 
 MealOrder-uer为小程序代码
 MealOrder为接口端
 saoma-diancan-pc为后台管理端
 
-**项目部分截图：**
-
-后台：
-pdf
-
-前端：
-pdf
+You can see the screenshots of project in pdf.
