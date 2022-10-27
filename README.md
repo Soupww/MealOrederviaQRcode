@@ -1,6 +1,6 @@
 # MealOrederviaQRcode
 MealOrder system based on Vue + node.js + Wechat miniprogram
-Includes code ordering, instant messaging order reminder, subscription message reminder, voice reminder and other functions, which can realize the complete function from user code scanning to merchant checkout
+Includes code ordering, instant messaging order reminder, subscription message reminder, voice reminder and other functions, which implements the complete function from user code scanning to merchant checkout
 
 Development tools： Hbuildx；WeChat Developer Tools
 
